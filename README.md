@@ -1,4 +1,4 @@
-# Minesweeper
+# 💣Minesweeper
 
 ### This is my attempt in trying to re-create the classic Minesweeper game as part of an assignment for a software development course.
 
